@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include "SHA.hpp"
 
+
 using namespace std;
 
 int main() 
